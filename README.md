@@ -30,11 +30,11 @@
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/b91c1eda-c536-4f70-8f04-707d9d3a885e" alt="Screenshot 1" width="630" height="300"/>
+<img src="https://github.com/user-attachments/assets/b91c1eda-c536-4f70-8f04-707d9d3a885e"/>
 
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/72988760-5589-4c5c-b54c-5b87cd136a7a" alt="Screenshot 2" width="630" height="300"/>
+<img src="https://github.com/user-attachments/assets/72988760-5589-4c5c-b54c-5b87cd136a7a" />
 
 <br><br>
 
