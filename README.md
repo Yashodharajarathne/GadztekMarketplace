@@ -32,11 +32,11 @@
 
 <img src="https://github.com/user-attachments/assets/b91c1eda-c536-4f70-8f04-707d9d3a885e"/>
 
-<br><br>
+<br>
 
 <img src="https://github.com/user-attachments/assets/72988760-5589-4c5c-b54c-5b87cd136a7a" />
 
-<br><br>
+<br>
 
 <img src="https://github.com/user-attachments/assets/a3067c70-a61f-4b32-a0e4-35d76c017060" alt="Mobile View" width="220" height="450"/>
 
